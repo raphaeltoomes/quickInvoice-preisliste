@@ -1,0 +1,47 @@
+{
+  "version": "2026-07",
+  "validFromLabel": "07/2026",
+  "archiveSuffix": "06/2026",
+  "items": [
+    {
+      "customID": 1,
+      "artNumber": 1001,
+      "itemName": "Podologische Behandlung (groß)",
+      "customCategory": "Privat",
+      "itemPrice": 45.00,
+      "prio": 10
+    },
+    {
+      "customID": 2,
+      "artNumber": 1002,
+      "itemName": "Podologische Behandlung (klein)",
+      "customCategory": "Privat",
+      "itemPrice": 30.00,
+      "prio": 20
+    },
+    {
+      "customID": 3,
+      "artNumber": 1003,
+      "itemName": "Podologische Befundung",
+      "customCategory": "Privat",
+      "itemPrice": 15.00,
+      "prio": 30
+    },
+    {
+      "customID": 4,
+      "artNumber": 2001,
+      "itemName": "Podologische Behandlung (groß) (davon Zuzahlung)",
+      "customCategory": "Zuzahlung",
+      "itemPrice": 12.50,
+      "prio": 40
+    },
+    {
+      "customID": 5,
+      "artNumber": 9001,
+      "itemName": "Verordnungsblattgebühr",
+      "customCategory": "Extra",
+      "itemPrice": 10.00,
+      "prio": 50
+    }
+  ]
+}
