@@ -15,7 +15,7 @@
     { "customID": 10, "artNumber": 79933, "itemName": "Hausbesuch",                                                      "customCategory": "Hausbesuch",    "itemPrice": 21.85, "prio": 10 },
     { "customID": 11, "artNumber": 79934, "itemName": "Hausbesuch in soz. Einrichtung, inkl. Wegegeld",                  "customCategory": "Hausbesuch",    "itemPrice": 12.59, "prio": 11 },
     { "customID": 12, "artNumber": 79933, "itemName": "Hausbesuch (davon Zuzahlung)",                                    "customCategory": "Zuzahlung",     "itemPrice": 2.29,  "prio": 12 },
-    { "customID": 13, "artNumber": 79934, "itemName": "Hausbesuch in soz. Einrichtung, inkl. Wegegeld (davon Zuzahlung)","customCategory": "Zuzahlung",     "itemPrice": 1.29,  "prio": 13 },
+    { "customID": 13, "artNumber": 79934, "itemName": "Hausbesuch in soz. Einrichtung, inkl. Wegegeld (davon Zuzahlung)","customCategory": "Zuzahlung",     "itemPrice": 1.89,  "prio": 13 },
     { "customID": 14, "artNumber": null,  "itemName": "Hygiene-Pauschale",                                               "customCategory": "Extra",         "itemPrice": 9.59,  "prio": 14 },
     { "customID": 15, "artNumber": null,  "itemName": "Verordnungsblattgebühr",                                          "customCategory": "Extra",         "itemPrice": 10.90, "prio": 15 },
     { "customID": 16, "artNumber": null,  "itemName": "Nagelprotetik (1 Zeh)",                                           "customCategory": "Teilbehandlung","itemPrice": 26.90, "prio": 16 },
