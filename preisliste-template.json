@@ -1,7 +1,7 @@
 {
-  "version": "2024-07",
-  "validFromLabel": "07/2024",
-  "archiveSuffix": "06/2024",
+  "version": "2025-07",
+  "validFromLabel": "07/2025",
+  "archiveSuffix": "06/2025",
   "items": [
     { "customID": 1,  "artNumber": 78020, "itemName": "Podologische Behandlung (groß)",                                  "customCategory": "ohne Rezept",   "itemPrice": 59.00, "prio": 1 },
     { "customID": 2,  "artNumber": 78010, "itemName": "Podologische Behandlung (klein)",                                 "customCategory": "ohne Rezept",   "itemPrice": 41.00, "prio": 2 },
