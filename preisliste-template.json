@@ -3,45 +3,142 @@
   "validFromLabel": "07/2026",
   "archiveSuffix": "06/2026",
   "items": [
-    {
-      "customID": 1,
-      "artNumber": 1001,
-      "itemName": "Podologische Behandlung (groß)",
-      "customCategory": "Privat",
-      "itemPrice": 45.00,
-      "prio": 10
-    },
-    {
-      "customID": 2,
-      "artNumber": 1002,
-      "itemName": "Podologische Behandlung (klein)",
-      "customCategory": "Privat",
-      "itemPrice": 30.00,
-      "prio": 20
-    },
-    {
-      "customID": 3,
-      "artNumber": 1003,
-      "itemName": "Podologische Befundung",
-      "customCategory": "Privat",
-      "itemPrice": 15.00,
-      "prio": 30
-    },
-    {
-      "customID": 4,
-      "artNumber": 2001,
-      "itemName": "Podologische Behandlung (groß) (davon Zuzahlung)",
-      "customCategory": "Zuzahlung",
-      "itemPrice": 12.50,
-      "prio": 40
-    },
-    {
-      "customID": 5,
-      "artNumber": 9001,
-      "itemName": "Verordnungsblattgebühr",
-      "customCategory": "Extra",
-      "itemPrice": 10.00,
-      "prio": 50
-    }
+    [
+  {
+    "customID": 1,
+    "artNumber": 78020,
+    "itemName": "Podologische Behandlung (groß)",
+    "customCategory": "ohne Rezept",
+    "itemPrice": 59.00,
+    "prio": 1
+  },
+  {
+    "customID": 2,
+    "artNumber": 78010,
+    "itemName": "Podologische Behandlung (klein)",
+    "customCategory": "ohne Rezept",
+    "itemPrice": 41.00,
+    "prio": 2
+  },
+  {
+    "customID": 3,
+    "artNumber": 78030,
+    "itemName": "Podologische Befundung",
+    "customCategory": "ohne Rezept",
+    "itemPrice": 4.00,
+    "prio": 3
+  },
+  {
+    "customID": 4,
+    "artNumber": 78020,
+    "itemName": "Podologische Behandlung (groß)",
+    "customCategory": "Privat",
+    "itemPrice": 49.12,
+    "prio": 4
+  },
+  {
+    "customID": 5,
+    "artNumber": 78010,
+    "itemName": "Podologische Behandlung (klein)",
+    "customCategory": "Privat",
+    "itemPrice": 34.18,
+    "prio": 5
+  },
+  {
+    "customID": 6,
+    "artNumber": 78030,
+    "itemName": "Podologische Befundung",
+    "customCategory": "Privat",
+    "itemPrice": 3.37,
+    "prio": 6
+  },
+  {
+    "customID": 7,
+    "artNumber": 78020,
+    "itemName": "Podologische Behandlung (groß) (davon Zuzahlung)",
+    "customCategory": "Zuzahlung",
+    "itemPrice": 4.91,
+    "prio": 7
+  },
+  {
+    "customID": 8,
+    "artNumber": 78010,
+    "itemName": "Podologische Behandlung (klein) (davon Zuzahlung)",
+    "customCategory": "Zuzahlung",
+    "itemPrice": 3.42,
+    "prio": 8
+  },
+  {
+    "customID": 9,
+    "artNumber": 78030,
+    "itemName": "Podologische Befundung (davon Zuzahlung)",
+    "customCategory": "Zuzahlung",
+    "itemPrice": 0.34,
+    "prio": 9
+  },
+  {
+    "customID": 10,
+    "artNumber": 79933,
+    "itemName": "Hausbesuch",
+    "customCategory": "Hausbesuch",
+    "itemPrice": 21.95,
+    "prio": 10
+  },
+  {
+    "customID": 11,
+    "artNumber": 79934,
+    "itemName": "Hausbesuch in soz. Einrichtung, inkl. Wegegeld",
+    "customCategory": "Hausbesuch",
+    "itemPrice": 12.54,
+    "prio": 11
+  },
+  {
+    "customID": 12,
+    "artNumber": 79933,
+    "itemName": "Hausbesuch (davon Zuzahlung)",
+    "customCategory": "Zuzahlung",
+    "itemPrice": 2.20,
+    "prio": 12
+  },
+  {
+    "customID": 13,
+    "artNumber": 79934,
+    "itemName": "Hausbesuch in soz. Einrichtung, inkl. Wegegeld (davon Zuzahlung)",
+    "customCategory": "Zuzahlung",
+    "itemPrice": 1.25,
+    "prio": 13
+  },
+  {
+    "customID": 14,
+    "artNumber": null,
+    "itemName": "Hygiene-Pauschale",
+    "customCategory": "",
+    "itemPrice": 9.50,
+    "prio": 14
+  },
+  {
+    "customID": 15,
+    "artNumber": null,
+    "itemName": "Verordnungsblattgebühr",
+    "customCategory": "",
+    "itemPrice": 10.00,
+    "prio": 15
+  },
+  {
+    "customID": 16,
+    "artNumber": null,
+    "itemName": "Nagelprotetik (1 Zeh)",
+    "customCategory": "Teilbehandlung",
+    "itemPrice": 26.00,
+    "prio": 16
+  },
+  {
+    "customID": 17,
+    "artNumber": null,
+    "itemName": "Teil-Nagelprotetik (1 Zeh)",
+    "customCategory": "Teilbehandlung",
+    "itemPrice": 13.00,
+    "prio": 17
+  }
   ]
 }
