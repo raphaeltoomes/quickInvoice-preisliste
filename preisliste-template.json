@@ -109,23 +109,23 @@
   },
   {
     "customID": 14,
-    "artNumber": null,
+    "artNumber": 0
     "itemName": "Hygiene-Pauschale",
-    "customCategory": "",
+    "customCategory": "Extra",
     "itemPrice": 9.50,
     "prio": 14
   },
   {
     "customID": 15,
-    "artNumber": null,
+    "artNumber": 0,
     "itemName": "Verordnungsblattgebühr",
-    "customCategory": "",
+    "customCategory": "Extra",
     "itemPrice": 10.00,
     "prio": 15
   },
   {
     "customID": 16,
-    "artNumber": null,
+    "artNumber": 0,
     "itemName": "Nagelprotetik (1 Zeh)",
     "customCategory": "Teilbehandlung",
     "itemPrice": 26.00,
@@ -133,7 +133,7 @@
   },
   {
     "customID": 17,
-    "artNumber": null,
+    "artNumber": 0,
     "itemName": "Teil-Nagelprotetik (1 Zeh)",
     "customCategory": "Teilbehandlung",
     "itemPrice": 13.00,
